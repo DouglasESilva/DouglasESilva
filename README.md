@@ -2,7 +2,7 @@
 
 -  Estudando Java
 
-<div align="center">
+<div >
   <a href="https://github.com/DouglasESilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DouglasESilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
